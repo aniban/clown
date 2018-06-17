@@ -5,7 +5,7 @@ int noseY = 250;
 
 void setup(){
   size(400,600);
-  pic = loadImage("profile.JPG");
+  pic = loadImage("./data/profile.JPG");
   textSize(30);
   noStroke();
 }
